@@ -11,7 +11,7 @@ def getMsg(conn):
 		if not message:
 			print ('Disconnected')
 			return
-		print (message)
+		print (message
 
 
 
